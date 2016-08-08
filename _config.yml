@@ -1,6 +1,6 @@
 # Site settings
-title: "Tom Tate - Resume"
-description: "This is my resume!"
+title: "Tom Tate - Resumé"
+description: "The personal and professional resumé of Thomas N. Tate Jr."
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Tom Tate"
-resume_title:                   "Digital Marketing Project Manager"
+resume_title:                   "Product Marketig Manager & Digital Marketing Professional"
 resume_contact_email:
   "thomas.n.tate@gmail.com"
 
