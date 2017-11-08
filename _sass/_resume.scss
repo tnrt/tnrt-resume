@@ -21,7 +21,7 @@
 .page-header { padding: 1.5rem 0;
 
   .avatar {
-    width: 45%;
+    width: 25%;
     max-width: 100%;
     overflow: hidden;
     @include border-radius(100px);
@@ -160,7 +160,7 @@
 // footer styles
 
 .page-footer {
-  border-top: 4px solid #c7c7c7;
+  border-top: 4px solid #6e3441;
   padding-top: 1.5rem;
   text-align: center;
   margin-bottom: 3rem;
