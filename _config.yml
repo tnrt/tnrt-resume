@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Tom Tate"
-resume_title:                   "Full-Stack Marketer"
+resume_title:                   "Full-Stack Product Marketer"
 resume_contact_email:
   "tom@tomtatejr.com"
 
@@ -34,7 +34,7 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/tnrt"
+#   resume_github_url:            "https://github.com/tnrt"
   resume_twitter_url:           "http://twitter.com/tnrt"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
